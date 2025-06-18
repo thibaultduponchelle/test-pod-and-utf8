@@ -1,0 +1,5 @@
+=encoding utf8
+
+✓ checked 
+
+(by Bjørn and Ævar)

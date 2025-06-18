@@ -1,0 +1,3 @@
+=encoding utf8
+
+(by Bjørn and Ævar)
